@@ -3,7 +3,7 @@
 **This is the directory where I put all of the simple apps that I have developed.** <br><br>
 All of the apps that I have created are designed for Android. The minimum API for all of these apps is 21, aka Lollipop. <br>
 These apps were made to test out different features that are available in the Android Libraries. <br>
-The design of the apps were made for a Samsung Galaxy S9 running on API 28, aka Pie. These apps were also tested on a Google Pixel 2 virtual device.<br><br>
+The design of the apps were made for a Samsung Galaxy S9 running on API 28, aka Pie, or API 29, aka Android 10. These apps were also tested on a Google Pixel 2 virtual device.<br><br>
 _This class reuses some of @seker 's code because he is the professor and he provides it in his github repository._
 
 <br><br>
